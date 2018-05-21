@@ -6,6 +6,6 @@
 ## Libreria usada
 NetworkX https://networkx.github.io/
 ## Ejemlplos tomados de:
-https://networkx.github.io/documentation/stable/reference/drawing.html
-plot_weighted_graph.html | Author: Aric Hagberg (hagber@lanl.gov)
+- https://networkx.github.io/documentation/stable/reference/drawing.html
+- plot_weighted_graph.html | Author: Aric Hagberg (hagber@lanl.gov)
 ## Publicados en Notebooks-Azure
