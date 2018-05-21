@@ -1,8 +1,8 @@
 # ars-clase7
 ## Integrantes
-Juan Gahona
-Carlos Vicente
-Belén Piedra
+- Juan Gahona
+- Carlos Vicente
+- Belén Piedra
 ## Libreria usada
 NetworkX https://networkx.github.io/
 ## Ejemlplos tomados de:
